@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ANTLRv4 for IntelliJ"
+theme = "learn"
+
+[params]
+  themeVariant = "red"
+  custom_css = ["css/custom.css"]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ANTLRv4 for IntelliJ</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Home on ANTLRv4 for IntelliJ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Editing grammars</title>
+      <link>http://example.org/getting-started/editing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/getting-started/editing/</guid>
+      <description>ANTLR 4 grammars are files with the .g4 extension. They can be created manually or from IntelliJ&amp;rsquo;s New menu. The plugin supports lexer, parser and combined grammars. It provides features like syntax highlighting, code completion, navigation, error reporting etc.
+The Structure view on the left lists parser rules, lexer rules and lexer modes. From the button bar at the top, elements can be sorted alphabetically, and the view supports scrolling from/to the corresponding definitions in the editor.</description>
+    </item>
+    
+  </channel>
+</rss>
